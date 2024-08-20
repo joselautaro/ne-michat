@@ -1,0 +1,27 @@
+.card{
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #343030;
+    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.title{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.dolar-item{
+    margin-bottom: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #a19090;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+p{
+    color: black;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
